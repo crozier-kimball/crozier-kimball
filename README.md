@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.svg" alt="Crozier - MBA-trained business operator" />
+ <img src="header.svg" alt="Crozier - MBA-trained business operator" />
 </p>
 
 I build solutions at the intersection of strategy, operations, and data—deconstructing complex problems, identifying needs, and implementing systems that drive measurable impact.
