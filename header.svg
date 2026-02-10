@@ -1,0 +1,28 @@
+<svg width="1200" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a2332;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2d3e50;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="300" fill="url(#bg-gradient)"/>
+  
+  <!-- Subtle geometric accent -->
+  <line x1="0" y1="280" x2="400" y2="280" stroke="#4a5f7f" stroke-width="2" opacity="0.3"/>
+  <line x1="800" y1="20" x2="1200" y2="20" stroke="#4a5f7f" stroke-width="2" opacity="0.3"/>
+  
+  <!-- Name -->
+  <text x="100" y="150" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="72" font-weight="700" fill="#ffffff" letter-spacing="-1">
+    CROZIER
+  </text>
+  
+  <!-- Tagline -->
+  <text x="100" y="195" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="20" font-weight="400" fill="#b8c5d6" letter-spacing="0.5">
+    MBA-trained business operator with strong analytics and BI execution
+  </text>
+  
+  <!-- Minimal accent line under name -->
+  <rect x="100" y="165" width="80" height="3" fill="#5b9bd5" opacity="0.8"/>
+</svg>
