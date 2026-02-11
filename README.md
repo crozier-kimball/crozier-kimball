@@ -1,10 +1,9 @@
 <p align="center"> <img src="header.svg" alt="Crozier - MBA-trained business operator" /> 
 </p>
 
-I like figuring out how things actually work.
-Especially when the problem is messy, the data is imperfect, and the answer isn’t obvious.
-
-Most of what I build sits at the intersection of strategy, operations, and data. I enjoy breaking complex systems into something understandable, then turning that understanding into tools people actually use.
+Take the thing apart
+Study until it makes sense
+Build it up again
 
 <img src="https://placehold.jp/24/1F5FA6/1F5FA6/1500x10.png?text=%20" width="100%" height="3px" />
 
