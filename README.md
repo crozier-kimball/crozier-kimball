@@ -2,7 +2,9 @@
 </p>
 
 Take the thing apart
+
 Study until it makes sense
+
 Build it up again
 
 <img src="https://placehold.jp/24/1F5FA6/1F5FA6/1500x10.png?text=%20" width="100%" height="3px" />
