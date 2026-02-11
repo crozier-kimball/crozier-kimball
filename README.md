@@ -9,7 +9,7 @@ Build it up again
 
 <img src="https://placehold.jp/24/1F5FA6/1F5FA6/1500x10.png?text=%20" width="100%" height="3px" />
 
-I enjoy:
+**I enjoy:**
 - Turning vague questions into clear decisions
 - Fuilding metrics people actually trust
 - Finding the edge cases where systems break
@@ -28,12 +28,11 @@ I enjoy:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
----
 
+**Let's Connect**  
 <a href="https://www.linkedin.com/in/crozier-kimball4/">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-1F5FA6?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 
----
+<img src="https://placehold.jp/24/1F5FA6/1F5FA6/1500x10.png?text=%20" width="100%" height="3px" />
 
-*Building analytics, driving strategy, solving problems.*
