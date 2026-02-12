@@ -11,7 +11,7 @@ Build it up again
 
 **I enjoy:**
 - Turning vague questions into clear decisions
-- Bilding metrics people actually trust
+- Building metrics people actually trust
 - Finding the edge cases where systems break
 
 **Currently**
